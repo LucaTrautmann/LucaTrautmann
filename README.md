@@ -27,7 +27,6 @@ and a keen eye for photography.
     <img class="skill-icon" src="https://skillicons.dev/icons?i=css">
     <img class="skill-icon" src="https://skillicons.dev/icons?i=javascript">
     <img class="skill-icon" src="https://skillicons.dev/icons?i=react">
-
     <img class="skill-icon" src="https://skillicons.dev/icons?i=github">
     <img class="skill-icon" src="https://skillicons.dev/icons?i=nodejs">
     <img class="skill-icon" src="https://skillicons.dev/icons?i=py">
