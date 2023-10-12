@@ -1,14 +1,13 @@
-<div align="left">
-<img src="https://github.com/jonas8900/jonas8900/assets/123127839/8043a952-38db-4f92-a356-58215f995c61" width="150" height="150" align="right">
+
+<div align="center">
+
+<img src="https://github.com/LucaTrautmann/LucaTrautmann/assets/102241481/f0647952-d826-4eee-a357-3cf03174d3f9" width="300px" >
 
 
-I'm an aspiring web developer, 
+Im a Student with a passion for Business Informatics, <br>
+UI/UX design, App & Web Design, Front-End Development <br>
+and a keen eye for photography.
 
-I spend most of my time either coding, gaming, or discussing ideas for new projects and technologies with my friends.
-
-Many of my friends are developers or work in cybersecurity roles, which creates a rather nerdy environment for me. However, 
-
-##### I feel comfortable in such an environment!
 <br>
 
 </div>
@@ -17,7 +16,9 @@ Many of my friends are developers or work in cybersecurity roles, which creates 
 <br>
 <br>
 
-<h2 align="center">skills</h2>
+
+<h2 align="center">My skills</h2>
+
 
 <div align="center">
 
@@ -26,37 +27,40 @@ Many of my friends are developers or work in cybersecurity roles, which creates 
     <img class="skill-icon" src="https://skillicons.dev/icons?i=css">
     <img class="skill-icon" src="https://skillicons.dev/icons?i=javascript">
     <img class="skill-icon" src="https://skillicons.dev/icons?i=react">
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=nextjs">
+
     <img class="skill-icon" src="https://skillicons.dev/icons?i=github">
     <img class="skill-icon" src="https://skillicons.dev/icons?i=nodejs">
     <img class="skill-icon" src="https://skillicons.dev/icons?i=py">
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=mongodb">
+
   </a>
 </div>
 <br>
 <br>
 <br>
-# Thank you for visiting	👋
+
+
 
 
 <div align="left">
-<img src="https://github.com/jonas8900/jonas8900/assets/123127839/8043a952-38db-4f92-a356-58215f995c61" width="150" height="150" align="right">
-Mehr anzeigen
-message.txt
-3 kB
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas8900&layout=compact&theme=transparent" style="margin-right: 20px;" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jonas8900&show_icons=true&theme=transparent" style="margin-left: 20px;" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaTrautmann&layout=compact&theme=transparent" style="margin-right: 20px;" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LucaTrautmann&show_icons=true&theme=transparent" style="margin-left: 20px;" width="400" />
+
 </div>
 <br>
 <br>
 <br>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=jonas8900&style=flat-square&color=blue" alt=""/>
+
+<img src="https://komarev.com/ghpvc/?username=LucaTrautmann&style=flat-square&color=blue" alt=""/>
+
  
  </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/jonas-dally-373332287" >
+
+  <a href="[https://www.linkedin.com/in/jonas-dally-373332287](https://www.linkedin.com/in/luca-trautmann-51a90a203/)" >
+
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
