@@ -60,6 +60,5 @@ and a keen eye for photography.
 <div id="badges" align="center">
 
   <a href="[https://www.linkedin.com/in/jonas-dally-373332287](https://www.linkedin.com/in/luca-trautmann-51a90a203/)" >
-
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
