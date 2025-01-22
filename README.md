@@ -3,10 +3,7 @@
 
 <img src="https://github.com/LucaTrautmann/LucaTrautmann/assets/102241481/f0647952-d826-4eee-a357-3cf03174d3f9" width="300px" >
 
-Hi! Im a Student with a passion for Business Informatics, <br>
-UI/UX design, App & Web Design, Front-End Development <br>
-and a keen eye for photography.
-<br>
+Hi!
 </div>
 <br>
 <br>
@@ -14,12 +11,20 @@ and a keen eye for photography.
 <div align="center">
   <a href="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,github,nodejs,py,mongodb&perline=3">
     <img class="skill-icon" src="https://skillicons.dev/icons?i=html">
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=css">
+    <img class="skill-icon" src="[https://skillicons.dev/icons?i=css"](https://skillicons.dev/icons?i=css")>
     <img class="skill-icon" src="https://skillicons.dev/icons?i=javascript">
+     <img class="skill-icon" src="https://skillicons.dev/icons?i=typescript">
+     <img class="skill-icon" src="https://skillicons.dev/icons?i=flutter">
+     <img class="skill-icon" src="https://skillicons.dev/icons?i=dart">
+     <img class="skill-icon" src="https://skillicons.dev/icons?i=mysql">
     <img class="skill-icon" src="https://skillicons.dev/icons?i=react">
     <img class="skill-icon" src="https://skillicons.dev/icons?i=github">
     <img class="skill-icon" src="https://skillicons.dev/icons?i=nodejs">
     <img class="skill-icon" src="https://skillicons.dev/icons?i=py">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=docker">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=bash">
+     <img class="skill-icon" src="https://skillicons.dev/icons?i=figma">
+   
   </a>
 </div>
 <br>
